@@ -21,5 +21,5 @@ If you would like me to make the website this is what ill need from you.
 -social media links.
 
 
-#Closing
+# Closing
 Contacts will be added soon, please wait untill upated thanks.
