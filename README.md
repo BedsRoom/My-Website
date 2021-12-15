@@ -1,4 +1,5 @@
 # My-Website
+https://www.bedsroom.ml
 This is the site I made, if you would like to use it please leave my credit at the bottom.. You may change copyright from Beds, but just dont change the Designed By.. I trust you people.
 
 # Help
@@ -24,8 +25,8 @@ If you would like me to make the website this is what ill need from you.
 # Closing
 Contacts will be added soon, please wait untill upated thanks.
 
-
-
+# Domain
+I will not be teaching you how to get a free domain.
 
 **Profile**  
   | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
