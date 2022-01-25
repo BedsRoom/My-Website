@@ -1,3 +1,7 @@
+# MAJOR REWORK
+
+There is a mjor rework for the original site. Expect a new one.
+
 # My-Website
 https://www.bedsroom.ml
 This is the site I made, if you would like to use it please leave my credit at the bottom.. You may change copyright from Beds, but just dont change the Designed By.. I trust you people.
